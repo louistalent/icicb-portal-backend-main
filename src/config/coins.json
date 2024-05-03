@@ -1,0 +1,127 @@
+{
+	"icicb": {
+		"icicb": {
+			"address": "-",
+			"symbol": "ICICB",
+			"decimals": 18
+		},
+		"btc": {
+			"address": "0xfb5988d5F4A1a8B6D736e9Eef5873AE3ab2E6f32",
+			"symbol": "BTC",
+			"decimals": 18
+		},
+		"eth": {
+			"address": "0xC50DaFc2Bd591828eCF736240ad17390CaDA41F2",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"bnb": {
+			"address": "0xeb3724d2a13e6e79e208F49C45d5f100bb420e6B",
+			"symbol": "BNB",
+			"decimals": 18
+		},
+		"usdt": {
+			"address": "0xfaf72be26659168F1BaFB924a3f1C5e7BFc3199d",
+			"symbol": "USDT",
+			"decimals": 18
+		},
+		"usdc": {
+			"address": "0x504B8f4c424419Ec6e9F6a6025A2b958a7f072c8",
+			"symbol": "USDC",
+			"decimals": 18
+		},
+		"ltc": {
+			"address": "0xBA44d05A7cc271b9D3d169c2d717564e216d841a",
+			"symbol": "LTC",
+			"decimals": 18
+		},
+		"bch": {
+			"address": "0x8ccaaCca0A5d76B0886ceC0403402F6aBa8D600f",
+			"symbol": "BCH",
+			"decimals": 18
+		},
+		"xrp": {
+			"address": "0xEf7EAAb62C16942F3df0F962412BfF430654A1d2",
+			"symbol": "XRP",
+			"decimals": 18
+		},
+		"doge": {
+			"address": "0x58A6535E481c97bb9982e42dC54613b3e5362Ae5",
+			"symbol": "DOGE",
+			"decimals": 18
+		},
+		"link": {
+			"address": "0x36695990bdd8c14Cd8939F643d1BC30d83aC5648",
+			"symbol": "LINK",
+			"decimals": 18
+		}
+	},
+	"eth": {
+		"eth": {
+			"address": "-",
+			"symbol": "ETH",
+			"decimals": 18
+		},
+		"bnb": {
+			"address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+			"symbol": "BNB",
+			"decimals": 18
+		},
+		"usdt": {
+			"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+			"symbol": "USDT",
+			"decimals": 6
+		},
+		"usdc": {
+			"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+			"symbol": "USDC",
+			"decimals": 6
+		}
+	},
+	"bsc": {
+		"bnb": {
+			"address": "-",
+			"symbol": "BNB",
+			"decimals": 18
+		},
+		"btc": {
+			"address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+			"symbol": "BTC",
+			"decimals": 18
+		},
+		"usdt": {
+			"address": "0x55d398326f99059ff775485246999027b3197955",
+			"symbol": "USDT",
+			"decimals": 18
+		},
+		"usdc": {
+			"address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+			"symbol": "USDC",
+			"decimals": 18
+		},
+		"ltc": {
+			"address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+			"symbol": "LTC",
+			"decimals": 18
+		},
+		"bch": {
+			"address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+			"symbol": "BCH",
+			"decimals": 18
+		}
+	},
+	"btc": {
+		"btc": {
+			"address": "-",
+			"symbol": "BTC",
+			"decimals": 8
+		}
+	},
+	"ltc": {
+		"ltc": {
+			"address": "-",
+			"symbol": "LTC",
+			"decimals": 8
+		}
+	}
+}
